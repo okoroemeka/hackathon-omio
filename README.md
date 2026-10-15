@@ -9,7 +9,7 @@ assets, dependencies, tracking, API calls, or booking requests.
 Open `index.html` in your browser, or serve this folder:
 
 ```sh
-cd /Users/emeka.okoro/Desktop/b2b/hackathon-omio
+cd <path>/hackathon-omio
 python3 -m http.server 8088 --bind 127.0.0.1
 ```
 
